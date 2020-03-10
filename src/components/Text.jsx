@@ -25,6 +25,5 @@ const changeColor = () => {
         
     }, 2000);
 }
-// changeColor();
 
 export default Text;
