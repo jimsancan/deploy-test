@@ -6,7 +6,7 @@ const Text = () => {
         changeColor();
     })
     return (
-        <div className="main-text black-text color-change">Test App Running</div>
+        <div className="main-text fs50 black-text color-change">Test App Running</div>
     )
 }
 
